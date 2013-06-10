@@ -1,0 +1,38 @@
+<div class="topcoat-navigation-bar">
+    <div class="topcoat-navigation-bar__item center three-quarters">
+        <h1 class="topcoat-navigation-bar__title">PhoneGap+AngularJS</h1>
+    </div>
+    <div class="topcoat-navigation-bar__item right quarter">
+        <a class="topcoat-icon-button--quiet" ng-click="changeSettings()">
+            <span class="topcoat-icon settings-icon"></span>
+        </a>
+    </div>
+</div>
+<div class="topcoat-list__container list">
+    <h3 class="topcoat-list__header">PhoneGap API Samples</h3>
+    <ul class="topcoat-list">
+        <li class="topcoat-list__item--first" ng-click="slidePage('/view1')">
+            Notification
+        </li>
+        <li class="topcoat-list__item" ng-click="slidePage('/view2')">
+            Geolocation
+        </li>
+        <li class="topcoat-list__item" ng-click="slidePage('/view3')">
+            Acceleration
+        </li>
+        <li class="topcoat-list__item" ng-click="slidePage('/view4')">
+            Device
+        </li>
+        <li class="topcoat-list__item" ng-click="slidePage('/view5')">
+            Camera
+        </li>
+        <li class="topcoat-list__item" ng-click="slidePage('/view6')">
+            Contacts
+        </li>
+        <li class="topcoat-list__item" ng-click="slidePage('/view7')">
+            Compass
+        </li>
+    </ul>
+    <h1 class="centerize">Version  {{' %VERSION%' | interpolate}}</h1>
+</div>
+<ng-include src="'partials/settingsOverlay.html'"></ng-include>

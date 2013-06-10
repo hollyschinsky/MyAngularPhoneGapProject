@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c189fa38-cd6f-410a-9573-2c3adea31563" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/Default-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardAppTests/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/en.lproj/MainStoryboard_iPad.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/en.lproj/MainStoryboard_iPhone.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/StoryboardApp-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/StoryboardApp-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardAppTests/StoryboardAppTests-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardAppTests/StoryboardAppTests.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardAppTests/StoryboardAppTests.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../../peepcode-081-emberjs-1-code/peepcode-ember-starter-app/_tableMenu.hbs" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp/main.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/RunForrestRunProject/www/css/mobile-nav.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/PhoneGapProjects/StoryboardApp/StoryboardApp.xcodeproj/project.pbxproj" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/css/topcoat-mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/bg_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/breadcrumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/checkbox_checked.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/checkbox_checked_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/checkbox_unchecked.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/checkbox_unchecked_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/dark-combo-box-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/dark-combo-box-bg2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/dark-grips.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/dark-sprites2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/dialog-zone-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/drop-down-triangle-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/drop-down-triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/light-combo-box-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/light-combo-box-bg2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/light-grips.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/light-sprites2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/pop-up-triangle-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/pop-up-triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/search-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/search-bg2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/spinner.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/img/spinner2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/pics/lurton-pinot-gris.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/wine-cellar-ember/js/handlebars.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/pics/generic.jpg" afterPath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/pics/generic.jpg" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/wine-cellar-ember/js/app.js" afterPath="$USER_HOME$/Documents/wine-cellar-ember/js/app.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/index.html" afterPath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/wine-cellar-ember/index.html" afterPath="$USER_HOME$/Documents/wine-cellar-ember/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/wine-cellar-ember/.idea/misc.xml" afterPath="$USER_HOME$/Documents/wine-cellar-ember/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/css/styles.css" afterPath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/wine-cellar-ember/.idea/vcs.xml" afterPath="$USER_HOME$/Documents/wine-cellar-ember/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/partials/welcome.html" afterPath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/partials/welcome.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/partials/wine-details.html" afterPath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/partials/wine-details.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/partials/wine-list.html" afterPath="$USER_HOME$/Documents/PhoneGapProjects/angular-cellar-basic/partials/wine-list.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/wine-cellar-ember/.idea/workspace.xml" afterPath="$USER_HOME$/Documents/wine-cellar-ember/.idea/workspace.xml" />
+    </list>
+    <ignored path="MyAngularPhoneGapProject.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="c189fa38-cd6f-410a-9573-2c3adea31563" time="1370875091588" ignored="false" />
+    <file path="/index.html" changelist="c189fa38-cd6f-410a-9573-2c3adea31563" time="1370475171510" ignored="false" />
+    <file path="/controllers.js" changelist="c189fa38-cd6f-410a-9573-2c3adea31563" time="1370479845657" ignored="false" />
+    <file path="/deviceView.html" changelist="c189fa38-cd6f-410a-9573-2c3adea31563" time="1370477728392" ignored="false" />
+    <file path="/homeView.html" changelist="c189fa38-cd6f-410a-9573-2c3adea31563" time="1370875431982" ignored="false" />
+    <file path="/services.js" changelist="c189fa38-cd6f-410a-9573-2c3adea31563" time="1370480165246" ignored="false" />
+    <file path="/compassView.html" changelist="c189fa38-cd6f-410a-9573-2c3adea31563" time="1370477550065" ignored="false" />
+    <file path="$USER_HOME$/Documents/PhoneGapProjects/RunForrestRunProject/www/index.html" changelist="c189fa38-cd6f-410a-9573-2c3adea31563" time="1370479824915" ignored="false" />
+    <file path="/contactsView.html" changelist="c189fa38-cd6f-410a-9573-2c3adea31563" time="1370479845629" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MyAngularPhoneGapProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="homeView.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/partials/homeView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="18" selection-start="980" selection-end="980" vertical-scroll-proportion="0.48402947">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="70" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/services.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="153" column="51" selection-start="4573" selection-end="4573" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accelerometerView.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/partials/accelerometerView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deviceInfoView.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/partials/deviceInfoView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="49" selection-start="1505" selection-end="1505" vertical-scroll-proportion="-18.416666">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compassView.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/partials/compassView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notificationView.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/partials/notificationView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="0" selection-start="1079" selection-end="1142" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="6" selection-start="2271" selection-end="2271" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geolocationView.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/partials/geolocationView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="62" selection-end="97" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/partials/geolocationView.html" />
+        <option value="$PROJECT_DIR$/www/partials/notificationView.html" />
+        <option value="$PROJECT_DIR$/www/partials/compassView.html" />
+        <option value="$PROJECT_DIR$/www/partials/deviceView.html" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/partials/contactsView.html" />
+        <option value="$PROJECT_DIR$/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/www/js/services.js" />
+        <option value="$PROJECT_DIR$/www/partials/homeView.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="836" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="3627ed0d-7f3d-4d7f-9817-285376a36c22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="ad970f06-90fe-498b-a7e7-765086ef3302">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c189fa38-cd6f-410a-9573-2c3adea31563" name="Default" comment="" />
+      <created>1370472355100</created>
+      <updated>1370472355100</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="836" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25681493" sideWeight="0.6713092" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/partials/compassView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="17" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/notificationView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="1115" selection-end="1178" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="6" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/geolocationView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="62" selection-end="685" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/notificationView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="1079" selection-end="1142" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/geolocationView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="62" selection-end="97" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/accelerometerView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/compassView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/contactsView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="6" selection-start="2271" selection-end="2271" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="51" selection-start="4573" selection-end="4573" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="70" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/deviceInfoView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="49" selection-start="1505" selection-end="1505" vertical-scroll-proportion="-18.416666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/homeView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="980" selection-end="980" vertical-scroll-proportion="0.48402947">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

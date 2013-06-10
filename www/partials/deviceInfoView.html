@@ -1,0 +1,26 @@
+<div class="topcoat-navigation-bar" ng-controller="HomeCtrl">
+    <div class="topcoat-navigation-bar__item left quarter">
+        <a class="topcoat-icon-button--quiet" ng-click="slidePage('/','modal')">
+            <span class="topcoat-icon home-icon"></span>
+        </a>
+    </div>
+    <div class="topcoat-navigation-bar__item center half">
+        <h1 class="topcoat-navigation-bar__title">Device Info</h1>
+    </div>
+    <div class="topcoat-navigation-bar__item right quarter">
+        <a class="topcoat-icon-button--quiet" ng-click="changeSettings()">
+            <span class="topcoat-icon settings-icon"></span>
+        </a>
+    </div>
+</div>
+
+<div class="pad" ng-controller="DeviceCtrl">
+        <p>Name:                {{device.name}}</p>
+        <p>Model:               {{device.model}}</p>
+        <p>UUID:                {{device.uuid}}</p>
+        <p>Cordova:             {{device.cordova}}</p>
+        <p>Platform:            {{device.platform}}</p>
+        <p>Version:             {{device.version}}</p>
+</div>
+
+<ng-include src="'partials/settingsOverlay.html'"></ng-include>

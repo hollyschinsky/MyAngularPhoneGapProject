@@ -1,0 +1,37 @@
+<div class="topcoat-navigation-bar" ng-controller="HomeCtrl">
+    <div class="topcoat-navigation-bar__item left quarter">
+        <a class="topcoat-icon-button--quiet" ng-click="slidePage('/','modal')">
+            <span class="topcoat-icon home-icon"></span>
+        </a>
+    </div>
+    <div class="topcoat-navigation-bar__item center half">
+        <h1 class="topcoat-navigation-bar__title">Contacts</h1>
+    </div>
+    <div class="topcoat-navigation-bar__item right quarter">
+        <a class="topcoat-icon-button--quiet" ng-click="changeSettings()">
+            <span class="topcoat-icon settings-icon"></span>
+        </a>
+    </div>
+</div>
+
+<div ng-controller="ContactsCtrl">
+    <form ng-submit="find()">
+        <div class="left" style="float:left">
+            <input ng-model="searchTxt" type="text" value="" placeholder="search" class="topcoat-search-input--large">
+        </div>
+    </form>
+    
+    <div ng-show="contacts.length>0">
+        <p class="centerize">Number of contacts found: {{contacts.length}}</p>
+        <div class="topcoat-list__container list">
+            <ul class=topcoat-list>
+                <li ng-repeat="contact in contacts" class="topcoat-list__item">
+                    <p>{{ contact.name.formatted }}
+                    <a href="tel://{{contact.phoneNumbers[0].value}}" style="float:right">{{ contact.phoneNumbers[0].value }}</a></p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<ng-include src="'partials/settingsOverlay.html'"></ng-include>

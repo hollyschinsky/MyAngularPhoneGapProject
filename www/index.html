@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:ng="http://angularjs.org" lang="en" ng-app="myApp">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
+
+        <!-- Use the .min version of bootstrap files in production -->
+        <!-- Use the following if you want to use responsive design -->
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+
+        <link rel="stylesheet" type="text/css" href="css/mobile-nav.css" />
+        <link rel="stylesheet" type="text/css" href="css/topcoat-mobile-dark.css">
+        <title>Angular PhoneGap Sample</title>
+    </head>
+    
+    <body>
+        <!-- The following tag is in place of ng-view to use the angular mobile view navigation framework
+            https://github.com/ajoslin/angular-mobile-nav
+        -->
+        <mobile-view/>
+
+        <!-- Comment out the following 2 lines to test on the browser-->
+        <script type="text/javascript" src="cordova-2.7.0.js"></script>
+        <script src="lib/fastclick.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        
+        <!-- In production use min versions -->
+        <script src="lib/angular-1.1.4/angular.js"></script>
+        <script src="lib/mobile-nav.js"></script>
+
+        <script src="js/app.js"></script>
+        <script src="js/services.js"></script>
+        <script src="js/controllers.js"></script>
+        <script src="js/filters.js"></script>
+        <script src="js/directives.js"></script>
+
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+    </body>
+</html>

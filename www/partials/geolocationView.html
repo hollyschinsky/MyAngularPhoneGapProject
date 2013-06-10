@@ -1,0 +1,34 @@
+<!--<ng:include src="'partials/header.html'"></ng:include>-->
+<div class="topcoat-navigation-bar" ng-controller="HomeCtrl">
+    <div class="topcoat-navigation-bar__item left quarter">
+        <a class="topcoat-icon-button--quiet" ng-click="slidePage('/','modal')">
+            <span class="topcoat-icon home-icon"></span>
+        </a>
+    </div>
+    <div class="topcoat-navigation-bar__item center half">
+        <h1 class="topcoat-navigation-bar__title">Geolocation</h1>
+    </div>
+    <div class="topcoat-navigation-bar__item right quarter">
+        <a class="topcoat-icon-button--quiet" ng-click="changeSettings()">
+            <span class="topcoat-icon settings-icon"></span>
+        </a>
+    </div>
+</div>
+
+<div class="pad" ng-controller="GeolocationCtrl">
+    <div class="scroll">
+        <h4>(Scroll me)</h4>
+        <p>Latitude:                {{position.coords.latitude}}</p>
+        <p>Longitude:               {{position.coords.longitude}}</p>
+        <p>Altitude:                {{position.coords.altitude}}</p>
+        <p>Accuracy:                {{position.coords.accuracy}}</p>
+        <p>AltitudeAccuracy:        {{position.coords.altitudeAccuracy}}</p>
+        <p>Heading:                 {{position.coords.heading}}</p>
+        <p>Speed:                   {{position.coords.speed}}</p>
+        <p>Timestamp:               {{position.timestamp}}</p>
+    </div>
+</div>
+
+<p class='note'>Note: the above container is also an example of how to create a fixed container with scrolling enabled via the scroll class (see index.css)</p>
+<ng-include src="'partials/settingsOverlay.html'"></ng-include>
+

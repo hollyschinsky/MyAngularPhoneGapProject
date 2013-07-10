@@ -38,6 +38,5 @@ var app = {
         /*angular.element(document).ready(function() {
             angular.bootstrap(document);
         });*/
-        new FastClick(document.body);
     }
 };

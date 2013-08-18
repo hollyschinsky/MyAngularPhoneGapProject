@@ -63,6 +63,27 @@ function CompassCtrl($scope) {
     },function(e) { console.log("Error finding compass " + e.code) });
 }
 
+function HackerNewsCtrl($scope, $rootScope) {
+
+    // load in data from hacker news unless we already have
+    if (!$rootScope.items) {     
+
+        jx.load('http://api.ihackernews.com/page',function(data){
+            console.log(JSON.stringify(data));
+            $rootScope.items = data.items;
+            $scope.$apply();
+        },'json');
+
+    } else {
+        console.log('data already loaded');
+    }
+
+    $scope.loadItem = function(item) {
+        navigator.notification.alert(item.url,function() {console.log("Alert success")},"My Alert","Close");
+    };
+}
+
+
 function ContactsCtrl($scope) {
     $scope.find = function() {
         $scope.contacts = [];

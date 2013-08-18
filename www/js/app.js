@@ -1,5 +1,10 @@
 'use strict';
 
+function jsonp_callback(data) {
+    // returning from async callbacks is (generally) meaningless
+    console.log(data.found);
+}
+
 
 // Declare app level module which depends on filters, and services
 var myApp = angular.module('myApp', ['myApp.filters', 'myApp.services', 'myApp.directives','ajoslin.mobile-navigate','ngMobile'])
@@ -15,5 +20,6 @@ var myApp = angular.module('myApp', ['myApp.filters', 'myApp.services', 'myApp.d
         $routeProvider.when('/view5', {templateUrl: 'partials/cameraView.html'});
         $routeProvider.when('/view6', {templateUrl: 'partials/contactsView.html'});
         $routeProvider.when('/view7', {templateUrl: 'partials/compassView.html'});
+        $routeProvider.when('/view8', {templateUrl: 'partials/hackerNewsView.html'});
         $routeProvider.otherwise({redirectTo: '/'});
   }]);
